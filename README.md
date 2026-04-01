@@ -68,12 +68,17 @@ python step2_preprocess.py
 python step3_chatbot.py
 ```
 
-## How TF-IDF Works
-1. Every document in the corpus is converted into a TF-IDF vector (numbers representing word importance)
-2. The user's question is also converted into a TF-IDF vector
-3. Cosine similarity is calculated between the question and every document
-4. The document with the highest similarity score is returned as the answer
-No LLM or AI model is used — purely mathematical retrieval.
+
+## TF-IDF stands for:
+TF (Term Frequency) — how often a word appears in a document
+IDF (Inverse Document Frequency) — how rare that word is across all documents
+
+
+## How your chatbot works:
+Your question is typed → converted into a TF-IDF vector (just numbers)
+All 9 corpus documents are also stored as TF-IDF vectors
+Cosine similarity is calculated between your question and every document
+The document with the highest similarity score is returned as the answer
 
 
 ## Concepts Demonstrated
