@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "source": "Wikipedia",
+    "topic": "Artificial Intelligence – Overview",
+    "content": "Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. AI research focuses on reasoning, knowledge representation, planning, learning, natural language processing, and perception. The field was founded in 1956 at a Dartmouth conference by John McCarthy, Marvin Minsky, and others."
+  },
+  {
+    "id": 2,
+    "source": "Wikipedia",
+    "topic": "Machine Learning",
+    "content": "Machine learning is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed. It focuses on developing computer programs that access data and use it to learn for themselves. Deep learning uses neural networks with many layers to model complex patterns in data."
+  },
+  {
+    "id": 3,
+    "source": "Wikipedia",
+    "topic": "Natural Language Processing",
+    "content": "Natural language processing (NLP) is a branch of AI concerned with giving computers the ability to understand text and spoken words. NLP combines computational linguistics with statistical, machine learning, and deep learning models. Applications include translation, sentiment analysis, and chatbots."
+  },
+  {
+    "id": 4,
+    "source": "Blog – Towards Data Science",
+    "topic": "AI Applications in Industry",
+    "content": "AI is widely used in healthcare for medical image diagnosis, drug discovery, and patient risk prediction. In finance, AI powers fraud detection, algorithmic trading, and credit scoring. Autonomous vehicles use AI for real-time object detection and path planning."
+  },
+  {
+    "id": 5,
+    "source": "Blog – Towards Data Science",
+    "topic": "Risks and Ethics of AI",
+    "content": "AI poses risks including job displacement due to automation, algorithmic bias in decisions, and potential misuse in surveillance. Ethical concerns involve lack of transparency in black-box models. Responsible AI development requires fairness, accountability, and explainability."
+  },
+  {
+    "id": 6,
+    "source": "Blog – IBM Think",
+    "topic": "AI vs Traditional Programming",
+    "content": "Traditional programming requires explicit rules coded by humans. AI learns rules from data instead. The shift from rule-based systems to data-driven models has enabled breakthroughs in image recognition, speech recognition, and game playing such as AlphaGo and GPT-based language models."
+  },
+  {
+    "id": 7,
+    "source": "PDF – AI Overview Report",
+    "topic": "History of AI",
+    "content": "The concept of artificial intelligence dates back to Alan Turing's 1950 paper Computing Machinery and Intelligence, which proposed the Turing Test. The 1956 Dartmouth workshop is considered the birth of AI as a field. AI went through several winters of reduced funding before the deep learning revolution of the 2010s."
+  },
+  {
+    "id": 8,
+    "source": "PDF – AI Overview Report",
+    "topic": "Types of AI",
+    "content": "AI can be classified into narrow AI, which performs specific tasks like image classification, and general AI, which can perform any intellectual task a human can. Reinforcement learning systems like AlphaZero learn through reward signals. Generative AI models such as GPT and DALL-E create new content from patterns learned in training data."
+  },
+  {
+    "id": 9,
+    "source": "PDF – AI Overview Report",
+    "topic": "Future of AI",
+    "content": "The future of AI includes advances in multimodal models that process text, images, and audio together. AI is expected to transform education, scientific research, and climate modeling. Key challenges include achieving AI safety, interpretability, and aligning AI systems with human values and societal goals."
+  }
+]
