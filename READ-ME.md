@@ -36,7 +36,6 @@ nlp_chatbot/
 └── corpus.json            # Final structured corpus (9 entries)
 ```
 
-
 ## Data Sources:
 | # | Source | Type | Topic |
 |---|--------|------|-------|
@@ -72,6 +71,7 @@ python step3_chatbot.py
 ## TF-IDF stands for:
 TF (Term Frequency) — how often a word appears in a document
 IDF (Inverse Document Frequency) — how rare that word is across all documents
+
 
 
 ## How your chatbot works:
